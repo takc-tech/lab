@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "tests/*"
+      ]
+    },
+    "resolveJsonModule": true
+  }
+}
